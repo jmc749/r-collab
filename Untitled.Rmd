@@ -17,4 +17,18 @@ You can include R code in the document as follows:
 
 ```{r cars}
 summary(cars)
+<<<<<<< HEAD
 ```
+=======
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=TRUE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+>>>>>>> cb679bcb186272554b70bea4fd4ae6f269e4f603
